@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Nov 2024 08:57:47 at https://sites.google.com/view/happy-dog-stene/index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/view/happy-dog-stene/index -O1 "C:\My Web Sites\TEST" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:57:52	Error: 	"Not Found" (404) at link https://accounts.google.com/v3/signin/Edg/ (from https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fhappy-dog-stene%2Findex&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fhappy-dog-stene%2Findex&ifkv=AcMMx-dq7OO00U7v0X3RJZddrZS7j51r1qrSR5S8WdU0bCtiwht0Moxyl5JhgaRoR9JyHpUxaYDMoQ&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1027426580%3A1732953468651502)
+08:57:52	Error: 	"Not Found" (404) at link https://accounts.google.com/v3/signin/ (from https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fhappy-dog-stene%2Findex&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fhappy-dog-stene%2Findex&ifkv=AcMMx-dq7OO00U7v0X3RJZddrZS7j51r1qrSR5S8WdU0bCtiwht0Moxyl5JhgaRoR9JyHpUxaYDMoQ&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1027426580%3A1732953468651502)
+08:57:52	Error: 	"Not Found" (404) at link https://accounts.google.com/v3/signin/document.location.toString( (from https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fhappy-dog-stene%2Findex&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fhappy-dog-stene%2Findex&ifkv=AcMMx-dq7OO00U7v0X3RJZddrZS7j51r1qrSR5S8WdU0bCtiwht0Moxyl5JhgaRoR9JyHpUxaYDMoQ&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1027426580%3A1732953468651502)
+08:57:52	Error: 	"Bad Request" (400) at link https://accounts.google.com/v3/signin/rejected (from https://accounts.google.com/v3/signin/rejected?continue=https://sites.google.com/view/happy-dog-stene/index&dsh=S1027426580:1732953468651502&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://sites.google.com/view/happy-dog-stene/index&ifkv=AcMMx-dq7OO00U7v0X3RJZddrZS7j51r1qrSR5S8WdU0bCtiwht0Moxyl5JhgaRoR9JyHpUxaYDMoQ&osid=1&rhlk=js&rrk=47)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 8 links scanned, 3 files written (1617579 bytes overall) [248756 bytes received at 41459 bytes/sec], 1621713 bytes transferred using HTTP compression in 8 files, ratio 13%
+(4 errors, 0 warnings, 0 messages)
